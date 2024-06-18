@@ -1,11 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Helen! 👋
+
+* 🎓 Recently graduated with a B.S. in Computer Science; previously earned a B.S. in Microbiology
+* 💻 Eager to dive into the world of software engineering and full-stack development
+* 🔭 Interested in exploring opportunities to integrate my microbiology knowledge into software development projects
+* 🌱 Currently iterating on my senior capstone project: a travel planner app
+* 📫 Reach me at: helen.mar.wong@gmail.com
+* 📚 Fun fact: I enjoy reading fantasy books in my free time
+
+### Languages and Tools
+[![Languages and Tools](https://skillicons.dev/icons?i=py,js,nodejs,express,react,html,css,mongodb,mysql,gcp,firebase,docker,postman,git,github,vscode)](https://skillicons.dev)
 
 <!--
 **helen-m-wong/helen-m-wong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
