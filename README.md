@@ -1,4 +1,4 @@
-## Hi there, I'm Helen! 👋
+# Hi there, I'm Helen! 👋
 
 * 🎓 Recently graduated with a B.S. in Computer Science; previously earned a B.S. in Microbiology
 * 💻 Eager to dive into the world of software engineering and full-stack development
@@ -7,7 +7,7 @@
 * 📫 Reach me at: helen.mar.wong@gmail.com
 * 📚 Fun fact: I enjoy reading fantasy books in my free time
 
-### Languages and Tools
+## Languages and Tools
 [![Languages and Tools](https://skillicons.dev/icons?i=py,js,nodejs,express,react,html,css,mongodb,mysql,gcp,firebase,docker,postman,git,github,vscode)](https://skillicons.dev)
 
 <!--
