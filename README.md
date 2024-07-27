@@ -3,7 +3,7 @@
 * 🎓 Recently graduated with a B.S. in Computer Science; previously earned a B.S. in Microbiology
 * 💻 Eager to dive into the world of software engineering and full-stack development
 * 🔭 Interested in exploring opportunities to integrate my microbiology knowledge into software development projects
-* 🌱 Currently iterating on my senior capstone project: a travel planner app
+* 🌱 Currently iterating on my personal project: a community library app
 * 📫 Reach me at: helen.mar.wong@gmail.com
 * 📚 Fun fact: I enjoy reading fantasy books in my free time
 
